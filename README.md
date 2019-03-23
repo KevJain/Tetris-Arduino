@@ -5,7 +5,7 @@ My partner Saman and I implemented the game of tetris with slight modifications 
 This game makes use of the FastLED library v3.2.1 to output to the WS2812B LEDs used in our array.
 
 Gameplay Image:
-![Gameplay Image](https://github.com/KevJain/Tetris-Arduino/blob/master/Images/Board.jpg)
+![Gameplay Image](https://github.com/KevJain/Tetris-Arduino/blob/master/Images/Gameplay.jpg)
 
 Full Board:
 ![Board](https://github.com/KevJain/Tetris-Arduino/blob/master/Images/Board.jpg)
